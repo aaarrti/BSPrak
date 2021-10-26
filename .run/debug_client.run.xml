@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+    <configuration default="false" name="debug_client" type="CLion_Remote" singleton="false" version="1" remoteCommand="localhost:1234"
+                   symbolFile="$PROJECT_DIR$/kernel_debug" sysroot="">
+        <debugger toolchainName="system arm-none-eabi-gcc"/>
+        <method v="2"/>
+    </configuration>
+</component>

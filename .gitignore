@@ -1,0 +1,13 @@
+.DS_Store
+.idea
+*/*.o
+*/*.o_d
+*.o
+*.o_d
+*.d
+*/*.d
+kernel
+kernel_debug
+kernel.bin
+kernel_dump.s
+*.tar.gz
